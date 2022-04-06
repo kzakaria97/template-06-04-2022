@@ -1,0 +1,88 @@
+@media screen and (min-width:1024px){
+    .explore{
+        font-size: 25px;
+    }
+    .section6{
+        height: 280px;
+    }
+    .div6{
+        font-size: 20px;
+    }
+}
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .section2{
+        height: 450px;
+        font-size: 20px;
+    }
+    .explore{
+        font-size: 20px;
+    }
+    .section6{
+        height: 250px;
+    }
+    .div6{
+        font-size: 15px;
+    }
+}
+@media  screen and (min-width:320px) and (max-width:767px) {
+    body{
+        width: 100%;
+        margin: 0;
+    }
+    header{
+        height: 300px;
+    }
+    nav>div{
+        font-size: 15px;
+    }
+    .titre1{
+        font-size: 25px;
+    }
+    .para1{
+        font-size: 15px;
+    }
+    .section2{
+        height: 250px;
+        font-size: 10px;
+    }
+    .image1{
+        width: 30%;
+    }
+    .section3{
+        height: 200px;
+    }
+    .explore{
+        font-size: 12px;
+    }
+    .icon{
+        font-size: 45px;
+    }
+    .section5{
+        height: 200px; 
+    }
+    .section6{
+        height: 300px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .div6{
+        font-size: 12px;
+    }
+    footer{
+        height: 200px;
+    }
+    .foot{
+        display: flex;
+        justify-content: space-evenly;
+        font-size: 10px;
+    }
+    .logo{
+        display: flex;
+        flex-direction: column;
+    }
+    footer>h4{
+        text-align: center;
+        font-size: 10px;
+    }
+    
+}
